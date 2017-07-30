@@ -4,7 +4,7 @@
 
 3. copy _remitit-1.0-SNAPSHOT.jar and remit-config.yaml to a folder 
 
-4. use java -jar remit-config.yaml server remit-config.yamlto start application
+4. use java -jar _remitit-1.0-SNAPSHOT.jar server remit-config.yaml to start application
 
 5. now you can test your APIs
 
