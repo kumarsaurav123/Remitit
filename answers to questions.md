@@ -36,15 +36,15 @@ How would you improve the APIs that you just used?
 Please describe yourself in JSON format.
 
 {
-name:saurav
-reason: want to do some great stuff 
-alive : yes
-confident: little bit 
+name:saurav,
+reason: want to do some great stuff ,
+alive : yes,
+confident: little bit ,
 mentor : need one
 }
 What is the meaning of life?
 
-Givin hope and working  to make  Tommorrow wonderful.Ask buddha 
+Givin hope and working  to make  Tommorrow wonderful.On lighter note Ask buddha 
 
 
 
