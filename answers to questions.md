@@ -24,9 +24,13 @@ How would you track down a performance issue in production? Have you ever had to
 2.  regression test cases and junits are good starting point to catch bugs pre productions
 3. load testing
 How would you improve the APIs that you just used?
+
 1. swagger
 2. better documentation
 3. removing db dependencies.
+4. making paasword more user specific
+5.more concurrency
+6.role specific API'S
 
 
 Please describe yourself in JSON format.
