@@ -1,0 +1,30 @@
+server:
+  type: simple
+  applicationContextPath: /
+  adminContextPath: /admin
+  connector:
+    type: http
+    port: 27003
+mongo:
+  seeds:
+  - host: sauku01-Inspiron-5558
+    port: 27017
+  database: "test_qa"
+  credentials:
+    userName: "test"
+    password: "test@123"
+logging:
+  # The default level of all loggers. Can be OFF, ERROR, WARN, INFO, DEBUG, TRACE, or ALL.
+          level: ERROR
+          # Set the log level for Eko Application
+          loggers:
+             com.eko: DEBUG
+
+          appenders:
+              - type: console
+                threshold: ALL
+                timeZone: UTC
+                target: stdout
+
+
+   

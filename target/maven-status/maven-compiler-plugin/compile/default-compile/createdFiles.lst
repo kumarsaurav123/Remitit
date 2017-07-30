@@ -1,0 +1,16 @@
+com/remit/resources/UserResource.class
+com/remit/service/UserBusinessService.class
+com/remit/it/utils/IdMutexProvider.class
+com/remit/it/utils/IdMutexProvider$Mutex.class
+com/remit/it/helper/ConfigurationHelper.class
+com/remit/dao/User/TransactionDao.class
+com/remit/it/SimplePrincipal.class
+com/remit/service/UserDataServiceImpl.class
+com/remit/it/Roles.class
+com/remit/dao/User/Transaction.class
+com/remit/it/RemitApplication.class
+com/remit/it/utils/DBUtils.class
+com/remit/it/RemitConfiguration.class
+com/remit/it/utils/IdMutexProvider$MutexImpl.class
+com/remit/it/SimpleAuthenticator.class
+com/remit/dao/User/User.class
